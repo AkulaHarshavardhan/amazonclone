@@ -16,7 +16,7 @@
     width:100px;
 }
 .logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("images/amazon_logo.png");
     background-size: cover;
     height:50px;
     width:100px;
@@ -75,7 +75,7 @@
 .flag{
     height:16px;
     width:22px;
-    background-image: url("flag.png");
+    background-image: url("images/flag.png");
     background-size: cover;
 }
 .language-select{
@@ -176,7 +176,7 @@
 .intro-image{
     height:300px;
     width:1500px;
-    background-image:url(start-image.png);
+    background-image:url(images/start-image.png);
     background-size: cover;
     margin-top: 10px;
 }
@@ -191,26 +191,26 @@
 .Apparel{
     height:100%;
     width:372px;
-    background-image:url(apparel.png);
+    background-image:url(images/apparel.png);
     background-size: cover;
     margin-left:0px;
 }
 .shoes{
     height:100%;
     width:372px;
-    background-image:url(shoes.png);
+    background-image:url(images/shoes.png);
     background-size: cover;
 }
 .accessories{
     height:100%;
     width:372px;
-    background-image:url(accessories.png);
+    background-image:url(images/accessories.png);
     background-size: cover;
 }
 .watches{
     height:100%;
     width:372px;
-    background-image:url(watches.png);
+    background-image:url(images/watches.png);
     background-size: cover;
 }
 .caption {
@@ -230,26 +230,26 @@
 .gaming{
     height:100%;
     width:372px;
-    background-image:url(gaming.png);
+    background-image:url(images/gaming.png);
     background-size: cover;
     margin-left:0px;
 }
 .funko{
     height:100%;
     width:372px;
-    background-image:url(funko.png);
+    background-image:url(images/funko.png);
     background-size: cover;
 }
 .laptops{
     height:100%;
     width:372px;
-    background-image:url(laptops.png);
+    background-image:url(images/laptops.png);
     background-size: cover;
 }
 .oculus{
     height:100%;
     width:372px;
-    background-image:url(oculus.png);
+    background-image:url(images/oculus.png);
     background-size: cover;
 }
 .third-row{
@@ -263,26 +263,26 @@
 .mobilephones{
     height:100%;
     width:372px;
-    background-image:url(mobile_phones.png);
+    background-image:url(images/mobile_phones.png);
     background-size: cover;
     margin-left:0px;
 }
 .ties{
     height:100%;
     width:372px;
-    background-image:url(ties.png);
+    background-image:url(images/ties.png);
     background-size: cover;
 }
 .cases{
     height:100%;
     width:372px;
-    background-image:url(cases.png);
+    background-image:url(images/cases.png);
     background-size: cover;
 }
 .smart-watches{
     height:100%;
     width:372px;
-    background-image:url(smart_watches.png);
+    background-image:url(images/smart_watches.png);
     background-size: cover;
 }
 .fourth-row{
@@ -296,26 +296,26 @@
 .personalcare{
     height:100%;
     width:372px;
-    background-image:url(personal_care.png);
+    background-image:url(images/personal_care.png);
     background-size: cover;
     margin-left:0px;
 }
 .tools{
     height:100%;
     width:372px;
-    background-image:url(tools.png);
+    background-image:url(images/tools.png);
     background-size: cover;
 }
 .automotive{
     height:100%;
     width:372px;
-    background-image:url(automotive.png);
+    background-image:url(images/automotive.png);
     background-size: cover;
 }
 .homeoffice{
     height:100%;
     width:372px;
-    background-image:url(home_office.png);
+    background-image:url(images/home_office.png);
     background-size: cover;
 }
 .dealsfordad{
@@ -393,7 +393,7 @@
     justify-content: space-evenly;
 }
 .logo-second    {
-    background-image: url("amazon_logo.png");
+    background-image: url("images/amazon_logo.png");
     background-size: cover;
     height:75px;
     width:100px;
